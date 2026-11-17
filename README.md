@@ -29,7 +29,7 @@ Règle suivie à chaque étape : aucune information du jeu de test n'influence l
 | Rappel (défaut) | 0,56 |
 | AUC | 0,87 |
 
-L'accuracy de 0,86 est trompeuse : sur des données déséquilibrées, elle masque le fait que le modèle ne détecte que 56 % des défauts réels — précisément l'erreur la plus coûteuse pour un prêteur. L'AUC de 0,87 montre en revanche qu'il hiérarchise bien le risque.
+L'accuracy de 0,86 est trompeuse : sur des données déséquilibrées, elle masque le fait que le modèle ne détecte que 56 % des défauts réels - précisément l'erreur la plus coûteuse pour un prêteur. L'AUC de 0,87 montre en revanche qu'il hiérarchise bien le risque.
 
 ## Stack
 
